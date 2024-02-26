@@ -13,11 +13,12 @@
 </a>
                        
                        
-                         OWNER : IBRAHIM 
+  𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : 𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗡𝗚𝗢𝗬𝗔
                        
-                       NUMBER : 25471077266
+ 𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠𝗕𝗘𝗥 : +25410772666
                        
-                          MADE IN KENYA😂🇰🇪 
+  𝗠𝗔𝗗𝗘 𝗜𝗡 𝗞𝗘𝗡𝗬𝗔😂🇰🇪😂🤣 
+  
 ## THE THREE STEPS TO MAKE THE BOT
 	
 📌 FIRST FORK THE REPO.
@@ -26,11 +27,15 @@
 
 📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.  
 
-                         𝗦𝗖𝗔𝗡 𝗤𝗥 𝗢𝗥 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 𝗢𝗡 𝗥𝗘𝗣𝗟𝗜𝗧👇👇
+  
+   𝗦𝗖𝗔𝗡 𝗤𝗥 𝗢𝗥 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 𝗢𝗡 𝗥𝗘𝗣𝗟𝗜𝗧👇👇
+
 
     
-   ***Get `SESSION ID` by [`SCANING QR`](https://kingibraahloyal-5f256f4696c1.herokuapp.com/) Or [`PARING CODE`](https://replit.com/@mauricegift045/GiftedMD-Pairing-Code#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***                   
-                         𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
+   ***Get `SESSION ID` by [`SCANING QR`](https://kingibraahloyal-5f256f4696c1.herokuapp.com/) Or [`PARING CODE`](https://replit.com/@mauricegift045/GiftedMD-Pairing-Code#index.js).                  
+                         		 
+   
+   𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
 
     
 ***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/king-ibrahim-md/KING-IBRAHIM-GPT)*** 
