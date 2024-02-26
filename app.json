@@ -1,7 +1,7 @@
 {
   "name": "𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿",
   "description": "Hi there, I am IBRAHIM Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254710772666",
-  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+  "logo": "https://telegra.ph/file/f6cdde33a09061c4601e1.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/suhail/",
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "254728782591"
+      "value": "25410772666"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
