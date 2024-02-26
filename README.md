@@ -14,8 +14,9 @@
                          
                          
                          
-                         
-  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSuhailTechInfo%2FSuhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923184474176&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg)***
+                        
+9.  ***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/iH5i/KING-IBRAHIM-MD/tree/main-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254762016957&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=true&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg)***
+
 
 ### Thanks To
 - [Sam Pamday](https://github.com/Sampandey001) 
