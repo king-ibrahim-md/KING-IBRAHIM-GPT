@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
     "AUTHOR": "Gifted",
-    "theme": "ADAM",
+    "theme": "Gifted",
     "LANGUAGE": "English",
     "LANGCODE": "en", 
     "STRINGS": { 
@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿",
+            "botName": "Gifted-Tech",
             "body": "whatsapp User Bot", 
             "greet2" : "Thanks To 𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿",
             "pic1": "https://telegra.ph/file/f6cdde33a09061c4601e1.jpg", 
