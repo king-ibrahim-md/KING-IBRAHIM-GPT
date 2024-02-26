@@ -5,10 +5,20 @@
 
 
                       👑 𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿 👑
+                      
+                     <div align="center">
+  👑<b>KING IBRAHIM MD</b>👑</b>
+  <div align="center">
+</p>
+</a>
+                       
+                       
                        OWNER : IBRAHIM
+
+                       
                        NUMBER : 25471077266
 
-                       ENJOY BOT COMMAND
+                   
 
                         MADE IN KENYA😂🇰🇪 
                          
