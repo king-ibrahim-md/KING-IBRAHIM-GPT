@@ -13,7 +13,7 @@
                         MADE IN KENYA😂🇰🇪 
                          
                          
-   ***Get `SESSION ID` by [`SCANING QR`](https://qr-scan.giftedtechnexus.co.ke) Or [`PARING CODE`](https://replit.com/@mauricegift045/GiftedMD-Pairing-Code#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***                   
+   ***Get `SESSION ID` by [`SCANING QR`](https://kingibraahloyal-5f256f4696c1.herokuapp.com/) Or [`PARING CODE`](https://replit.com/@mauricegift045/GiftedMD-Pairing-Code#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***                   
                          
 ***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/king-ibrahim-md/KING-IBRAHIM-GPT)*** 
 
