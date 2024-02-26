@@ -15,7 +15,7 @@
                          
                          
                          
-   ***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/king-ibrahim-md/KING-IBRAHIM-GPT-)
+   ***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/king-ibrahim-md/KING-IBRAHIM-GPT)
 
 
 ### Thanks To
