@@ -47,7 +47,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 
 
     
-   ***Get `SESSION ID` by [`SCANING QR`](https://king-ibrahim-md-qr-code-c932a015796c.herokuapp.com/)                 
+   ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://king-ibrahim-md-qr-code-c932a015796c.herokuapp.com/)                 
                          		 
    
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
