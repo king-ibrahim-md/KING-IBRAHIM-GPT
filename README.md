@@ -34,12 +34,15 @@ iko[![-----------------------------------------------------](https://raw.githubu
 📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.  
 
 
-|NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
-|EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
-|
-|
-|1.  ***Get `SESSION ID` by [`SCANING CODE`](https://suhail-md-vtsf.onrender.com/)
-|_  _  _   _      _    _        _      
+NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
+EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
+
+𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
+        👇👇👇👇
+	
+ 
+ ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/)
+    
    𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
 
 
