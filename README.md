@@ -1,4 +1,4 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+iko[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
     <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/748df8b3b52de9d1d25da.jpg" alt="01" border="0" /></a>
 </p>
@@ -34,7 +34,7 @@
 📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.  
 
   
-   𝗦𝗖𝗔𝗡 𝗤𝗥 𝗢𝗥 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 𝗢𝗡 𝗥𝗘𝗣𝗟𝗜𝗧👇👇
+   𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
 
 
     
