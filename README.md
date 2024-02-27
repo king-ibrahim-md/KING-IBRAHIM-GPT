@@ -38,7 +38,7 @@
 
 
     
-   ***Get `SESSION ID` by [`SCANING QR`](https://kingibraahloyal-5f256f4696c1.herokuapp.com/) Or [`PARING CODE`](https://replit.com/@mauricegift045/GiftedMD-Pairing-Code#index.js).                  
+   ***Get `SESSION ID` by [`SCANING QR`](https://king-ibrahim-md-qr-code-c932a015796c.herokuapp.com/)                 
                          		 
    
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
