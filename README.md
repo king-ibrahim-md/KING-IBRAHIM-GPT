@@ -41,7 +41,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
         👇👇👇👇
 	
  
- ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://suhail-md-vtsf.onrender.com/)
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://suhail-md-vtsf.onrender.com/code)***
     
    𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
 
