@@ -41,13 +41,13 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
         👇👇👇👇
 	
  
- ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/)
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://suhail-md-vtsf.onrender.com/)
     
    𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
 
 
     
-   ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://king-ibrahim-md-qr-code-c932a015796c.herokuapp.com/)                 
+   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://king-ibrahim-md-qr-code-c932a015796c.herokuapp.com/)                 
                          		 
    
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
