@@ -70,7 +70,7 @@
     "required" :true
     }, 
     "WAPRESENCE": {
-      "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for always online and virtual typing) | 'recording'(for always online and virtual recording audio) | `crying' | `sleeping' | `lying' | 'fighting' |  'paused' ",
+      "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for always online and virtual typing) | 'recording'(for always online and virtual recording audio) | 'paused' ",
       "required" :true,
       "value": "available"
     },
