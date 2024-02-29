@@ -1,7 +1,7 @@
 {
-   "name": "Kingibrahim-md",
+   "name": "gifted-md",
    "version": "1.2.8-api",
-   "description": "Multi device whatsapp bot developed by king Ibrahim.",
+   "description": "Multi device whatsapp bot developed by GiftedTech.",
    "main": "lib/client.js",
    "type": "commonjs",
    "engines" : { "node": "v18.16.0", "npm": "9.5.1" },
@@ -69,10 +69,10 @@
    },
    "repository": {
              "type": "git",
-             "url": "git+github.com:king-ibrahim-md/KING-IBRAHIM-GPT.git"
+             "url": "git+https://github.com/Giftedmaurice/gifted-bot-md.git"
    },
    "bugs": {
-             "url": "https://github.com/king-ibrahim-md/KING-IBRAHIM-GPT/issues"
+             "url": "https://github.com/Giftedmaurice/gifted-bot-md/issues"
    },
-   "homepage": "https://github.com/king-ibrahim-md/KING-IBRAHIM-GPT#readme"
+   "homepage": "https://github.com/Giftedmaurice/gifted-bot-md#readme"
 }
