@@ -16,19 +16,19 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : 𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗔𝗗𝗔𝗠𝗦
-   * @author : Ibrahim Tech Info
-   * @description : King Ibrahim-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Suhail-Md
+   * @author : Suhail Tech Info.
+   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Ibrahim Tech Info.
-   * © 2024 King Ibrahim-Md.
+   * Created By Suhail Tech Info.
+   * © 2024 Suhail-Md.
 */
 
 
 
-let King Ibrahim_Md = "King Ibrahim MD Whatsapp bot md"
+let Suhail_Md = "Suhail Md Whatsapp bot md"
 let baseApi = process.env.API_SMD || global.api_smd || "https://api-smd-1.vercel.app"
 // let baseApi= 'https://api-smd.vercel.app';
 
